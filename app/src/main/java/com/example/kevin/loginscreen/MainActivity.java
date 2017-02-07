@@ -25,5 +25,8 @@ public class MainActivity extends AppCompatActivity {
         my_steps.setProgress(50);
         group_steps.setProgress(37);
 
+        group_ranking.setText("3/47");
+        my_ranking.setText("8/512");
+
     }
 }
